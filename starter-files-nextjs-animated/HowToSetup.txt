@@ -1,0 +1,7 @@
+I suggest to just copy-paste content of these files in this "Starter-files" and setup a new project yourself. 
+
+1) You will create a new folder for your project
+2) npx create-next-app@latest . --typescript --eslint
+3) tailwind.config.ts should look like the one in this file
+4) you can copy paste Layout.tsx/Page.tsx/Globals.css content into your files in /app folder
+5) drag /assets folder to your /app folder
